@@ -1,0 +1,12 @@
+tabla,campo,tipo,unidad,definicion
+UE_2026,ue_id,texto,,Identificador bloque y tratamiento
+UE_2026,n_dientes_sembrados,entero,n,Cantidad inicial efectivamente sembrada
+UE_2026,n_plantas_cosecha,entero,n,Plantas que llegaron a cosecha
+UE_2026,peso_total_bulbos_g,decimal,g,Masa de todos los bulbos incluidos descartes
+UE_2026,longitud_cosechada_surco_simple_m,decimal,m,Longitud realmente cosechada surco simple
+UE_2026,longitud_cosechada_surco_doble_m,decimal,m,Longitud realmente cosechada surco doble
+BULBOS_2026,id_bulbo,texto,,Bulbo individual asociado a UE
+BULBOS_2026,peso_bulbo_g,decimal,g,Peso del bulbo
+BULBOS_2026,diametro_ecuatorial_mm,decimal,mm,Diámetro máximo ecuatorial
+BULBOS_2026,apto_fisico,texto,,Aptitud física y sanitaria
+BULBOS_2026,comercial,texto,,Condición comercial según criterio registrado
