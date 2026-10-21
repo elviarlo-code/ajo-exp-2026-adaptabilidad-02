@@ -1,0 +1,11 @@
+~$*.xlsx
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.env.*
+.ipynb_checkpoints/
